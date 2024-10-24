@@ -1,3 +1,5 @@
+youshandefeiyang/av3a-assistant:amd64
+youshandefeiyang/allinone:latest
 taksss/php-epg:latest
 mzz2017/v2raya
 xhofe/alist:latest
