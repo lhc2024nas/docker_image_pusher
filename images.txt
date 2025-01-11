@@ -1,5 +1,4 @@
 guovern/tv-requests:latest
-youshandefeiyang/av3a-assistant:amd64
 youshandefeiyang/allinone:latest
 taksss/php-epg:latest
 mzz2017/v2raya
@@ -8,4 +7,4 @@ xiaoyaliu/alist
 mzz2017/v2raya:latest
 haroldli/xiaoya-tvbox
 ailg/g-box:hostmode
-mzz2017/v2raya
+v2raya/v2raya
