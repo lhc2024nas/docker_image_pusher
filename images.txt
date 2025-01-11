@@ -8,3 +8,4 @@ xiaoyaliu/alist
 mzz2017/v2raya:latest
 haroldli/xiaoya-tvbox
 ailg/g-box:hostmode
+mzz2017/v2raya
