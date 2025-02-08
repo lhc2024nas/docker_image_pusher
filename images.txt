@@ -8,3 +8,4 @@ mzz2017/v2raya:latest
 haroldli/xiaoya-tvbox
 ailg/g-box:hostmode
 v2raya/v2raya
+doubebly/doube-ofiii:latest
