@@ -10,4 +10,4 @@ ailg/g-box:hostmode
 v2raya/v2raya
 doubebly/doube-ofiii:latest
 zzzshanghai/doube-itv:latest
-johnzdq/doube-itv:latest
+containrrr/watchtower
