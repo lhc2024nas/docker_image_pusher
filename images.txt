@@ -8,6 +8,6 @@ mzz2017/v2raya:latest
 haroldli/xiaoya-tvbox
 ailg/g-box:hostmode
 v2raya/v2raya
-doubebly/doube-ofiii:latest
+doubebly/doube-ofiii:1.5.0
 zzzshanghai/doube-itv:latest
 containrrr/watchtower
