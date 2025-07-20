@@ -10,3 +10,5 @@ ailg/g-box:hostmode
 v2raya/v2raya
 zzzshanghai/doube-itv:latest
 containrrr/watchtower
+
+
